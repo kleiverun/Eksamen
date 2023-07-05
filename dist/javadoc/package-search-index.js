@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"eksamen2023"},{"l":"eksamen2023.hjelpeklasser"},{"l":"eksamen2023.kontroll"},{"l":"eksamen2023.model"}];updateSearchResults();
